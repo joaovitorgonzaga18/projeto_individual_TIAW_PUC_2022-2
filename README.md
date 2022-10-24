@@ -3,5 +3,5 @@
 # (Versão inicial)
 Funcionalidades inativas (ainda não implementadas)
 
-Listagem de produtos
+Listagem de produtos e 
 Listagem de produtos na página inicial do sistema
