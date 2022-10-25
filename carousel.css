@@ -38,7 +38,7 @@
 }
 
 .item-list {
-    width: 1000%;
+    width: 4000%;
     transition: 0.5s all;
 }
 
@@ -49,8 +49,10 @@
     padding: 20px;
     border: solid 2px black;
     border-radius: 20px;
-    width: 280px;
+    width: 300px;
     background-color: white;
+    height: fit-content;
+    top: 0;
 }
 
 .item h2 {

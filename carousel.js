@@ -19,7 +19,7 @@ function slide (btn, qtdProd) {
         index--;
     }
 
-    listaStyle.transform = "translate3d(" + margin + "px, 0px, 0px)";;
+    listaStyle.transform = "translate3d(" + margin + "px, 0px, 0px)";
 
 
 }

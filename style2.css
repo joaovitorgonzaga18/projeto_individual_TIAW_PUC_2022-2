@@ -27,7 +27,7 @@ h1{
 
 body {
   height: 100vh;
-  background-image: url(./images/fundo2.jpg);
+  /* background-image: url(./images/fundo2.jpg); */
   font-family: 'Source Code Pro', monospace;
 }
 
